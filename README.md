@@ -41,4 +41,4 @@ this [localhost/settings/IndexPatterns/AddNew](http://localhost:5601/app/kibana#
 
 10. Pie graph
 
-![1](https://github.com/shekodn/iOS-course/blob/master/Cuerpos%20Geometricos/Screenshots/1.png)
+![1](https://github.com/shekodn/iOS-course/blob/master/Cuerpos%20Geometricos/Screenshots/1)
