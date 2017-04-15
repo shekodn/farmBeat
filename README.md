@@ -31,6 +31,6 @@
 6. After following the latter repo instructions we should be able to continue. Go to
 this [localhost/settings/IndexPatterns/AddNew](http://localhost:5601/app/kibana#/management/kibana/index/?_g=()) and uncheck "Index contains time-based events"
 
-7. Fill Index name or pattern with "true" and create it!
+7. Fill Index name or pattern with ```true``` and create it!
 
 8. If you can see the true index page we are ready to go
