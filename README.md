@@ -31,6 +31,14 @@
 6. After following the latter repo instructions we should be able to continue. Go to
 this [localhost/settings/IndexPatterns/AddNew](http://localhost:5601/app/kibana#/management/kibana/index/?_g=()) and uncheck "Index contains time-based events"
 
-7. Fill Index name or pattern with ```true``` and create it!
+7. If you run this command ```curl 'localhost:9200/_cat/indices?v'``` in your terminal you should be able to see that there is an index called ```true```  with a docs count of ```3000```.
 
-8. If you can see the true index page we are ready to go
+8. Fill Index name or pattern with ```true``` and create it!
+
+######If you can see the true index page we are ready to go. Now all the info. is properly loaded in elasticserch hence is ready to be used in kibana!
+
+9. Go to kibana [Visualize your data](https://www.elastic.co/guide/en/kibana/current/tutorial-visualizing.html#tutorial-visualizing)
+
+10. Pie graph
+
+![1](https://github.com/shekodn/iOS-course/blob/master/Cuerpos%20Geometricos/Screenshots/1.png)
